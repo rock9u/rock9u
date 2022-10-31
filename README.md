@@ -25,5 +25,5 @@ I have a passion for Design System, Information Architecture and Web Accessibili
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rock9u&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=gruvbox" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rock9u&count_private=true&hide=stars,issues&show_icons=true&theme=gruvbox" 
 </p>
